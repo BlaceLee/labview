@@ -1,0 +1,42 @@
+2020:06:09-11-M-56	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-11-M-57	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-13-M-30	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-33	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-41	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-50	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-21	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-22	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-22	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-22	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-26	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-28	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-39	ÉÏÁÏÒ»ÖÂÐÔ¼ì²â	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:09-13-M-10	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-13-M-11	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-13-M-49	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-13-M-50	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-14-M-20	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-14-M-21	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-15-M-54	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-15-M-55	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-15-M-55	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-15-M-35	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-15-M-36	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-16-M-27	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-16-M-28	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-20-M-22	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-20-M-23	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-20-M-24	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-20-M-02	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:09-20-M-03	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System

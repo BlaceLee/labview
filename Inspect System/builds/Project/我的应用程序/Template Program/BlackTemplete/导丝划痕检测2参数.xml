@@ -1,0 +1,232 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0</Version>
+<Cluster>
+<Name>导丝划痕检测2参数</Name>
+<NumElts>6</NumElts>
+<Cluster>
+<Name>Rectangle</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Left</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Top</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Right</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Bottom</Name>
+<Val>0</Val>
+</I32>
+<DBL>
+<Name>Rotation</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<I32>
+<Name>Algorithm </Name>
+<Val>2</Val>
+</I32>
+<Cluster>
+<Name>Parameters</Name>
+<NumElts>3</NumElts>
+<I32>
+<Name>Number of Matches Requested</Name>
+<Val>1</Val>
+</I32>
+<SGL>
+<Name>Minimum Match Score</Name>
+<Val>800.00000</Val>
+</SGL>
+<Array>
+<Name>Angle Ranges</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Angle Range</Name>
+<NumElts>2</NumElts>
+<SGL>
+<Name>Start Angle</Name>
+<Val>-180.00000</Val>
+</SGL>
+<SGL>
+<Name>End Angle</Name>
+<Val>180.00000</Val>
+</SGL>
+</Cluster>
+</Array>
+</Cluster>
+<Array>
+<Name>Advanced Options </Name>
+<Dimsize>13</Dimsize>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>102</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>106</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>300.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>107</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>108</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>6.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>109</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>114</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>25.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>111</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>20.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>112</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>113</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>20.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>103</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>104</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>20.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>105</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Advanced Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Item</Name>
+<Val>100</Val>
+</U16>
+<DBL>
+<Name>Value</Name>
+<Val>5.00000000000000</Val>
+</DBL>
+</Cluster>
+</Array>
+<Path>
+<Name>模板路径</Name>
+<Val></Val>
+</Path>
+<I32>
+<Name>Color Plane </Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</LVData>

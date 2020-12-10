@@ -1,0 +1,67 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0</Version>
+<Cluster>
+<Name>ParamsUI 边界检查器</Name>
+<NumElts>4</NumElts>
+<Cluster>
+<Name>外圆二值化设定</Name>
+<NumElts>2</NumElts>
+<SGL>
+<Name>Lower value</Name>
+<Val>96.00000</Val>
+</SGL>
+<SGL>
+<Name>Upper value</Name>
+<Val>255.00000</Val>
+</SGL>
+</Cluster>
+<String>
+<Name>扇区个数</Name>
+<Val>20</Val>
+</String>
+<EW>
+<Name>Process </Name>
+<Choice>Get First Edge</Choice>
+<Choice>Get First + Last Edge</Choice>
+<Choice>Get All Edges</Choice>
+<Choice>Get Best Edge</Choice>
+<Val>2</Val>
+</EW>
+<Cluster>
+<Name>Edge Options </Name>
+<NumElts>6</NumElts>
+<U32>
+<Name>Edge Polarity</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>Kernel Size</Name>
+<Val>9</Val>
+</U32>
+<U32>
+<Name>Width</Name>
+<Val>5</Val>
+</U32>
+<SGL>
+<Name>Minimum Edge Strength</Name>
+<Val>27.00000</Val>
+</SGL>
+<EL>
+<Name>Interpolation Type</Name>
+<Choice>Zero Order</Choice>
+<Choice>Bilinear</Choice>
+<Choice>Quadratic</Choice>
+<Choice>Cubic</Choice>
+<Choice>Bilinear Fixed</Choice>
+<Val>1</Val>
+</EL>
+<EL>
+<Name>Data Processing Method</Name>
+<Choice>Average</Choice>
+<Choice>Median</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Cluster>
+</LVData>

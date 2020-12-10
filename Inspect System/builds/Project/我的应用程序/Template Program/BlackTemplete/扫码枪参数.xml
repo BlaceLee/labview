@@ -1,0 +1,28 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0.1</Version>
+<Cluster>
+<Name>扫码枪参数</Name>
+<NumElts>5</NumElts>
+<Boolean>
+<Name>IsNorImage</Name>
+<Val>1</Val>
+</Boolean>
+<U32>
+<Name>Exposure Values</Name>
+<Val>100289</Val>
+</U32>
+<Path>
+<Name>ImagePath</Name>
+<Val>C:\Users\hedongpo\Desktop\514-hdp\Alignment Assemble System\Test Picture\B\3.bmp</Val>
+</Path>
+<String>
+<Name>数据输出</Name>
+<Val>C0C10E0179019</Val>
+</String>
+<Boolean>
+<Name>结果显示</Name>
+<Val>1</Val>
+</Boolean>
+</Cluster>
+</LVData>

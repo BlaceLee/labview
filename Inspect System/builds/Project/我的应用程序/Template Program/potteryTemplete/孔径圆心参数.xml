@@ -1,0 +1,175 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0.1</Version>
+<Cluster>
+<Name>ParamsUI 内圆</Name>
+<NumElts>10</NumElts>
+<Cluster>
+<Name>圆参数1</Name>
+<NumElts>11</NumElts>
+<U32>
+<Name>Search  Direction</Name>
+<Val>1</Val>
+</U32>
+<Cluster>
+<Name>Edge Options</Name>
+<NumElts>6</NumElts>
+<U32>
+<Name>Edge Polarity</Name>
+<Val>2</Val>
+</U32>
+<U32>
+<Name>Kernel Size</Name>
+<Val>13</Val>
+</U32>
+<U32>
+<Name>Width</Name>
+<Val>13</Val>
+</U32>
+<SGL>
+<Name>Minimum Edge Strength</Name>
+<Val>10.00000</Val>
+</SGL>
+<EL>
+<Name>Interpolation Type</Name>
+<Choice>Zero Order</Choice>
+<Choice>Bilinear</Choice>
+<Choice>Quadratic</Choice>
+<Choice>Cubic</Choice>
+<Choice>Bilinear Fixed</Choice>
+<Val>4</Val>
+</EL>
+<EL>
+<Name>Data Processing Method</Name>
+<Choice>Average</Choice>
+<Choice>Median</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+<Boolean>
+<Name>Show Search Area</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Show Search Lines</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Show Edges Found</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Show Result</Name>
+<Val>1</Val>
+</Boolean>
+<U32>
+<Name>Search Area Color</Name>
+<Val>65280</Val>
+</U32>
+<U32>
+<Name>Search Lines Color</Name>
+<Val>255</Val>
+</U32>
+<U32>
+<Name>Edge Locations Color</Name>
+<Val>16776960</Val>
+</U32>
+<U32>
+<Name>Result Color</Name>
+<Val>16711680</Val>
+</U32>
+<String>
+<Name>Overlay Group Name</Name>
+<Val></Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>圆参数</Name>
+<NumElts>3</NumElts>
+<EW>
+<Name>Process</Name>
+<Choice>Get First Edge</Choice>
+<Choice>Get First + Last Edge</Choice>
+<Choice>Get All Edges</Choice>
+<Choice>Get Best Edge</Choice>
+<Val>3</Val>
+</EW>
+<I32>
+<Name>Step Size</Name>
+<Val>5</Val>
+</I32>
+<I32>
+<Name>Max Pixel Radius</Name>
+<Val>20</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>圆环ROI设定</Name>
+<NumElts>6</NumElts>
+<I32>
+<Name>Center X</Name>
+<Val>1175</Val>
+</I32>
+<I32>
+<Name>Center Y</Name>
+<Val>1147</Val>
+</I32>
+<I32>
+<Name>Inner Radius</Name>
+<Val>121</Val>
+</I32>
+<I32>
+<Name>Outer Radius</Name>
+<Val>1443</Val>
+</I32>
+<DBL>
+<Name>Start Angle</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>End Angle</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Boolean>
+<Name>Show Search Area</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Show Search Lines</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Show Edges Found</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Show Result</Name>
+<Val>1</Val>
+</Boolean>
+<Path>
+<Name>200次模板表格</Name>
+<Val>C:\Users\delluser001\Desktop\铜垫片检测\LX Inspect System\Source Code\GRR模板\Test.xlsx</Val>
+</Path>
+<Path>
+<Name>GRR模板表格</Name>
+<Val>C:\Users\delluser001\Desktop\铜垫片检测\LX Inspect System\Source Code\GRR模板\Test.xlsx</Val>
+</Path>
+<Cluster>
+<Name>孔径规格</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>孔径上限</Name>
+<Val>0.014</Val>
+</String>
+<String>
+<Name>孔径标准值</Name>
+<Val>1.1</Val>
+</String>
+<String>
+<Name>孔径下限</Name>
+<Val>0</Val>
+</String>
+</Cluster>
+</Cluster>
+</LVData>

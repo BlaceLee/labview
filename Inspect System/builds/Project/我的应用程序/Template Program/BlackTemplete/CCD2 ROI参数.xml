@@ -1,0 +1,84 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0.1</Version>
+<Cluster>
+<Name>CCD2 ROI²ÎÊý</Name>
+<NumElts>5</NumElts>
+<Cluster>
+<Name>Rectangle big CCD1</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Left</Name>
+<Val>1952</Val>
+</I32>
+<I32>
+<Name>Top</Name>
+<Val>1596</Val>
+</I32>
+<I32>
+<Name>Right</Name>
+<Val>570</Val>
+</I32>
+<I32>
+<Name>Bottom</Name>
+<Val>2690</Val>
+</I32>
+<DBL>
+<Name>Rotation</Name>
+<Val>45.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Rectangle top CCD1 </Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Left</Name>
+<Val>1952</Val>
+</I32>
+<I32>
+<Name>Top</Name>
+<Val>1596</Val>
+</I32>
+<I32>
+<Name>Right</Name>
+<Val>570</Val>
+</I32>
+<I32>
+<Name>Bottom</Name>
+<Val>2690</Val>
+</I32>
+<DBL>
+<Name>Rotation</Name>
+<Val>45.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Line</Name>
+<NumElts>4</NumElts>
+<I32>
+<Name>Start X</Name>
+<Val>338</Val>
+</I32>
+<I32>
+<Name>Start Y</Name>
+<Val>35</Val>
+</I32>
+<I32>
+<Name>End X</Name>
+<Val>463</Val>
+</I32>
+<I32>
+<Name>End Y</Name>
+<Val>35</Val>
+</I32>
+</Cluster>
+<DBL>
+<Name>left line </Name>
+<Val>341.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>right line</Name>
+<Val>404.00000000000000</Val>
+</DBL>
+</Cluster>
+</LVData>

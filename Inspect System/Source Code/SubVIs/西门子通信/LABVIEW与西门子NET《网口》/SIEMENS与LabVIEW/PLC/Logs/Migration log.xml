@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='LogFile.xsl'?>
+<LogFile culture="zh-CHS" projectName="2" dateText="移植日期：" typeText="类型" messageText="消息" timeText="时间" dateTime="2019/3/29 星期五">
+  <ProductVersions>
+    <ProductVersion Name="Totally Integrated Automation Portal" Version="V14 SP1" Hidden="False" ID="Siemens.Simatic.Portal:14.00.01.00" Type="ServicePack" />
+    <ProductVersion Name="SINAMICS Startdrive" Version="V14 SP1" Hidden="False" ID="Siemens.MC.Drives:14.00.01.00" Type="ServicePack" />
+    <ProductVersion Name="STEP 7 Professional" Version="V14 SP1" Hidden="False" ID="Siemens.Simatic.STEP7.Professional:14.00.01.00" Type="ServicePack">
+      <ContainsEditions>
+        <ProductVersion Name="STEP 7 Basic" Version="V14 SP1" Hidden="False" ID="Siemens.Simatic.STEP7.Basic:14.00.01.00" Type="ServicePack" />
+      </ContainsEditions>
+    </ProductVersion>
+    <ProductVersion Name="WinCC Professional" Version="V14 SP1" Hidden="False" ID="Siemens.Simatic.Hmi.Professional:14.00.01.00" Type="ServicePack">
+      <ContainsEditions>
+        <ProductVersion Name="WinCC Advanced" Version="V14 SP1" Hidden="False" ID="Siemens.Simatic.Hmi.Advanced:14.00.01.00" Type="ServicePack">
+          <ContainsEditions>
+            <ProductVersion Name="WinCC Comfort" Version="V14 SP1" Hidden="False" ID="Siemens.Simatic.Hmi.Comfort:14.00.01.00" Type="ServicePack">
+              <ContainsEditions>
+                <ProductVersion Name="WinCC Basic" Version="V14 SP1" Hidden="False" ID="Siemens.Simatic.Hmi.Basic:14.00.01.00" Type="ServicePack" />
+              </ContainsEditions>
+            </ProductVersion>
+          </ContainsEditions>
+        </ProductVersion>
+      </ContainsEditions>
+    </ProductVersion>
+  </ProductVersions>
+  <LogEntry type="CriticalError" dateTime="20:09:16">
+    <Message>移植日志</Message>
+    <LogEntry type="Success" dateTime="20:09:20">
+      <Message>站：02_RFID_Vision</Message>
+      <LogEntry type="Success" dateTime="20:09:20">
+        <Message>硬件配置</Message>
+        <LogEntry type="Success" dateTime="20:09:20">
+          <Message>中央</Message>
+        </LogEntry>
+        <LogEntry type="Success" dateTime="20:09:21">
+          <Message>从站：_____（从站号 99,PROFIBUS(1): DP 主站系统 (1)）</Message>
+        </LogEntry>
+        <LogEntry type="Success" dateTime="20:09:21">
+          <Message>从站：_____（从站号 98,PROFIBUS(1): DP 主站系统 (1)）</Message>
+        </LogEntry>
+      </LogEntry>
+    </LogEntry>
+    <LogEntry type="CriticalError" dateTime="20:09:21">
+      <Message>GSD 文件 trckff30 在安装 STEP 7 V5。4 SP5 或 V5.5 过程中丢失. </Message>
+    </LogEntry>
+    <LogEntry type="CriticalError" dateTime="20:09:21">
+      <Message>GSD 文件 trckff2a 在安装 STEP 7 V5。4 SP5 或 V5.5 过程中丢失. </Message>
+    </LogEntry>
+    <LogEntry type="Success" dateTime="20:09:21">
+      <Message>站：03_电操作手单元</Message>
+      <LogEntry type="Success" dateTime="20:09:21">
+        <Message>硬件配置</Message>
+        <LogEntry type="Success" dateTime="20:09:21">
+          <Message>中央</Message>
+        </LogEntry>
+      </LogEntry>
+    </LogEntry>
+    <LogEntry type="Success" dateTime="20:09:21">
+      <Message>站：09_提取安装单元</Message>
+      <LogEntry type="Success" dateTime="20:09:21">
+        <Message>硬件配置</Message>
+        <LogEntry type="Success" dateTime="20:09:21">
+          <Message>中央</Message>
+        </LogEntry>
+      </LogEntry>
+    </LogEntry>
+    <LogEntry type="Success" dateTime="20:09:22">
+      <Message>站：10_气动肌腱单元</Message>
+      <LogEntry type="Success" dateTime="20:09:22">
+        <Message>硬件配置</Message>
+        <LogEntry type="Success" dateTime="20:09:22">
+          <Message>中央</Message>
+        </LogEntry>
+      </LogEntry>
+    </LogEntry>
+    <LogEntry type="Success" dateTime="20:09:22">
+      <Message>站：11_成品分装单元</Message>
+      <LogEntry type="Success" dateTime="20:09:22">
+        <Message>硬件配置</Message>
+        <LogEntry type="Success" dateTime="20:09:22">
+          <Message>中央</Message>
+        </LogEntry>
+      </LogEntry>
+    </LogEntry>
+    <LogEntry type="Error" dateTime="20:09:22">
+      <Message>移植过程中出错。</Message>
+    </LogEntry>
+    <LogEntry type="Information" dateTime="20:09:16">
+      <Message>汇总</Message>
+      <LogEntry type="Information" dateTime="20:09:18">
+        <Message>使用 STEP 7 VV5.6 Chinese 导出的项目</Message>
+      </LogEntry>
+    </LogEntry>
+  </LogEntry>
+</LogFile>

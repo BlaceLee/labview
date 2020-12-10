@@ -1,0 +1,40 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0</Version>
+<Cluster>
+<Name>ParamsUI 内圆</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>圆环ROI设定</Name>
+<NumElts>6</NumElts>
+<I32>
+<Name>Center X</Name>
+<Val>1308</Val>
+</I32>
+<I32>
+<Name>Center Y</Name>
+<Val>948</Val>
+</I32>
+<I32>
+<Name>Inner Radius</Name>
+<Val>666</Val>
+</I32>
+<I32>
+<Name>Outer Radius</Name>
+<Val>881</Val>
+</I32>
+<DBL>
+<Name>Start Angle</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>End Angle</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<DBL>
+<Name>黑像素个数判定阀值</Name>
+<Val>100000.00000000000000</Val>
+</DBL>
+</Cluster>
+</LVData>

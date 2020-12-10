@@ -1,0 +1,124 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0.1</Version>
+<Cluster>
+<Name>导丝纤维毛发检测3参数</Name>
+<NumElts>6</NumElts>
+<SGL>
+<Name>Max Number</Name>
+<Val>11.00000</Val>
+</SGL>
+<Cluster>
+<Name>Curve Extraction Settings </Name>
+<NumElts>9</NumElts>
+<U32>
+<Name>Extraction Mode</Name>
+<Val>0</Val>
+</U32>
+<I32>
+<Name>Edge Threshold</Name>
+<Val>25</Val>
+</I32>
+<U32>
+<Name>Edge Filter Size</Name>
+<Val>1</Val>
+</U32>
+<I32>
+<Name>Min Length</Name>
+<Val>19</Val>
+</I32>
+<I32>
+<Name>Row Search Step Size</Name>
+<Val>5</Val>
+</I32>
+<I32>
+<Name>Col Search Step Size</Name>
+<Val>5</Val>
+</I32>
+<I32>
+<Name>Max Endpoint Gap</Name>
+<Val>10</Val>
+</I32>
+<Boolean>
+<Name>Closed</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Subpixel</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+<U16>
+<Name>Color Mode (Histogram 1)</Name>
+<Val>0</Val>
+</U16>
+<Cluster>
+<Name>Range (Threshold 1)</Name>
+<NumElts>2</NumElts>
+<SGL>
+<Name>Lower value</Name>
+<Val>62.00000</Val>
+</SGL>
+<SGL>
+<Name>Upper value</Name>
+<Val>255.00000</Val>
+</SGL>
+</Cluster>
+<Cluster>
+<Name>Clamp Settings (Max Clamp 1)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Angle Range (+/-)</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<Cluster>
+<Name>Edge Polarity</Name>
+<NumElts>2</NumElts>
+<U32>
+<Name>Start</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>End</Name>
+<Val>0</Val>
+</U32>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>Settings (Clamp (Rake) 1)</Name>
+<NumElts>8</NumElts>
+<I32>
+<Name>Contrast</Name>
+<Val>6</Val>
+</I32>
+<I32>
+<Name>Filter width</Name>
+<Val>5</Val>
+</I32>
+<I32>
+<Name>Steepness</Name>
+<Val>2</Val>
+</I32>
+<U32>
+<Name>Subsampling Ratio</Name>
+<Val>5</Val>
+</U32>
+<Boolean>
+<Name>Show Search Area</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Show Search Lines</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Show Edges Found</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Show Result</Name>
+<Val>1</Val>
+</Boolean>
+</Cluster>
+</Cluster>
+</LVData>

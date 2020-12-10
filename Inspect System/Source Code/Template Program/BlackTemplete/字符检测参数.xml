@@ -1,0 +1,250 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0.1</Version>
+<Cluster>
+<Name>字符识别参数</Name>
+<NumElts>8</NumElts>
+<Cluster>
+<Name>Parameters (OCR/OCV 1)</Name>
+<NumElts>10</NumElts>
+<Cluster>
+<Name>Threshold Data</Name>
+<NumElts>5</NumElts>
+<EW>
+<Name>Method</Name>
+<Choice>Fixed Range</Choice>
+<Choice>Uniform</Choice>
+<Choice>Linear</Choice>
+<Choice>Non Linear</Choice>
+<Choice>Local</Choice>
+<Choice>Color</Choice>
+<Val>4</Val>
+</EW>
+<U32>
+<Name>Looking for</Name>
+<Val>1</Val>
+</U32>
+<U32>
+<Name>Color Mode</Name>
+<Val>0</Val>
+</U32>
+<Cluster>
+<Name>Kernel Size</Name>
+<NumElts>2</NumElts>
+<I32>
+<Name>Width</Name>
+<Val>32</Val>
+</I32>
+<I32>
+<Name>Height</Name>
+<Val>32</Val>
+</I32>
+</Cluster>
+<Array>
+<Name>Ranges</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>2</NumElts>
+<I32>
+<Name>Min</Name>
+<Val>1</Val>
+</I32>
+<I32>
+<Name>Max</Name>
+<Val>255</Val>
+</I32>
+</Cluster>
+</Array>
+</Cluster>
+<Boolean>
+<Name>Reject Border</Name>
+<Val>1</Val>
+</Boolean>
+<I32>
+<Name>Number Of Erosions</Name>
+<Val>0</Val>
+</I32>
+<Cluster>
+<Name>Size &amp; Spacing</Name>
+<NumElts>11</NumElts>
+<U16>
+<Name>Segment Algorithm</Name>
+<Val>0</Val>
+</U16>
+<I32>
+<Name>Min Bounding Rect Width</Name>
+<Val>1</Val>
+</I32>
+<I32>
+<Name>Max Bounding Rect Width</Name>
+<Val>60</Val>
+</I32>
+<I32>
+<Name>Min Bounding Rect Height</Name>
+<Val>20</Val>
+</I32>
+<I32>
+<Name>Max Bounding Rect Height</Name>
+<Val>60</Val>
+</I32>
+<I32>
+<Name>Min Character Size</Name>
+<Val>20</Val>
+</I32>
+<I32>
+<Name>Max Character Size</Name>
+<Val>65536</Val>
+</I32>
+<I32>
+<Name>Min Char Spacing</Name>
+<Val>1</Val>
+</I32>
+<I32>
+<Name>Max Horiz Element Spacing</Name>
+<Val>1</Val>
+</I32>
+<I32>
+<Name>Max Vert Element Spacing</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Max Space Distance</Name>
+<Val>65536</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Read Options</Name>
+<NumElts>7</NumElts>
+<I32>
+<Name>Read Strategy</Name>
+<Val>1</Val>
+</I32>
+<I32>
+<Name>Read Resolution</Name>
+<Val>2</Val>
+</I32>
+<Boolean>
+<Name>Scale Dependant</Name>
+<Val>0</Val>
+</Boolean>
+<I32>
+<Name>Aspect Ratio</Name>
+<Val>400</Val>
+</I32>
+<I32>
+<Name>Acceptance Level</Name>
+<Val>500</Val>
+</I32>
+<String>
+<Name>Substitution Character</Name>
+<Val>?</Val>
+</String>
+<Boolean>
+<Name>MultiLine</Name>
+<Val>1</Val>
+</Boolean>
+</Cluster>
+<Array>
+<Name>Valid Characters</Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>2</NumElts>
+<I32>
+<Name>Pre-defined characters</Name>
+<Val></Val>
+</I32>
+<String>
+<Name>User-defined characters</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+<Boolean>
+<Name>Use Text Pattern</Name>
+<Val>0</Val>
+</Boolean>
+<U32>
+<Name>Orientation</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name># Lines Expected</Name>
+<Val>0</Val>
+</U32>
+<I32>
+<Name>Number of Blocks</Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Rectangle</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Left</Name>
+<Val>55</Val>
+</I32>
+<I32>
+<Name>Top</Name>
+<Val>498</Val>
+</I32>
+<I32>
+<Name>Right</Name>
+<Val>976</Val>
+</I32>
+<I32>
+<Name>Bottom</Name>
+<Val>1093</Val>
+</I32>
+<DBL>
+<Name>Rotation</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<DBL>
+<Name>字符长度判定</Name>
+<Val>13.00000000000000</Val>
+</DBL>
+<Cluster>
+<Name>Reference System</Name>
+<NumElts>3</NumElts>
+<Cluster>
+<Name>Origin</Name>
+<NumElts>2</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>464.51901</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>464.00800</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Angle (deg)</Name>
+<Val>359.99899</Val>
+</SGL>
+<U32>
+<Name>Axis Reference</Name>
+<Val>0</Val>
+</U32>
+</Cluster>
+<Path>
+<Name>File Path (字符库)</Name>
+<Val>D:\Inspect System\Source Code\SubVIs\字符检测VI\字符模板数字.abc</Val>
+</Path>
+<Path>
+<Name>File Path (连接件模板)</Name>
+<Val>D:\Inspect System\Source Code\Template Program\字符检测定位模板.png</Val>
+</Path>
+<String>
+<Name>Url</Name>
+<Val></Val>
+</String>
+<String>
+<Name>accessKey</Name>
+<Val></Val>
+</String>
+</Cluster>
+</LVData>

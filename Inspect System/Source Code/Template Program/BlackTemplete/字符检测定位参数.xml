@@ -1,0 +1,156 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0.1</Version>
+<Cluster>
+<Name>CCD1字符定位参数</Name>
+<NumElts>3</NumElts>
+<Cluster>
+<Name>Rectangle</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Left</Name>
+<Val>179</Val>
+</I32>
+<I32>
+<Name>Top</Name>
+<Val>351</Val>
+</I32>
+<I32>
+<Name>Right</Name>
+<Val>1204</Val>
+</I32>
+<I32>
+<Name>Bottom</Name>
+<Val>1065</Val>
+</I32>
+<DBL>
+<Name>Rotation</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Settings</Name>
+<NumElts>7</NumElts>
+<Cluster>
+<Name>Curve Parameters</Name>
+<NumElts>9</NumElts>
+<U32>
+<Name>Extraction Mode</Name>
+<Val>0</Val>
+</U32>
+<I32>
+<Name>Edge Threshold</Name>
+<Val>35</Val>
+</I32>
+<U32>
+<Name>Edge Filter Size</Name>
+<Val>1</Val>
+</U32>
+<I32>
+<Name>Min Length</Name>
+<Val>25</Val>
+</I32>
+<I32>
+<Name>Row Search Step Size</Name>
+<Val>15</Val>
+</I32>
+<I32>
+<Name>Col Search Step Size</Name>
+<Val>15</Val>
+</I32>
+<I32>
+<Name>Max Endpoint Gap</Name>
+<Val>10</Val>
+</I32>
+<Boolean>
+<Name>Closed</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Subpixel</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+<Cluster>
+<Name>Match Mode</Name>
+<NumElts>6</NumElts>
+<Boolean>
+<Name>Rotation</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Scale</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Occlusion</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Reserved 1</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Reserved 2</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Reserved 3</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+<Array>
+<Name>Range Settings</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Match Range Setting</Name>
+<NumElts>3</NumElts>
+<U32>
+<Name>Match Constraints</Name>
+<Val>0</Val>
+</U32>
+<DBL>
+<Name>Min</Name>
+<Val>-17.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Max</Name>
+<Val>17.00000000000000</Val>
+</DBL>
+</Cluster>
+</Array>
+<I32>
+<Name>Number of Matches</Name>
+<Val>1</Val>
+</I32>
+<SGL>
+<Name>Minimum Match Score</Name>
+<Val>400.00000</Val>
+</SGL>
+<Boolean>
+<Name>SubPixel Accuracy</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>Adv. Geometric Match Options 2</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Advanced Geometric Match Option</Name>
+<NumElts>2</NumElts>
+<U16>
+<Name>Setup Data Item</Name>
+<Val>21</Val>
+</U16>
+<DBL>
+<Name>Item Value</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+</Array>
+</Cluster>
+<Path>
+<Name>Template File Path</Name>
+<Val>D:\Inspect System\Source Code\SubVIs\字符检测VI\222.png</Val>
+</Path>
+</Cluster>
+</LVData>

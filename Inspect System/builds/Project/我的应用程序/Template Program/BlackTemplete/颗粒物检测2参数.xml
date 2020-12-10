@@ -1,0 +1,180 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0.1</Version>
+<Cluster>
+<Name>¿ÅÁ£Îï¼ì²â2²ÎÊý</Name>
+<NumElts>11</NumElts>
+<Cluster>
+<Name>Rectangle</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Left</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Top</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Right</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Bottom</Name>
+<Val>0</Val>
+</I32>
+<DBL>
+<Name>Rotation</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Threshold Limits (Threshold 1)</Name>
+<NumElts>2</NumElts>
+<SGL>
+<Name>Lower value</Name>
+<Val>6.00000</Val>
+</SGL>
+<SGL>
+<Name>Upper value</Name>
+<Val>245.00000</Val>
+</SGL>
+</Cluster>
+<Boolean>
+<Name>Keep/Remove Particles </Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Connectivity 4/8 (8) </Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>Selection Values (Particle Filter 1)</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Selection Value</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Measurement Parameter</Name>
+<Val>35</Val>
+</I32>
+<DBL>
+<Name>Range Lower Value</Name>
+<Val>80.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Range Upper Value</Name>
+<Val>16332.00000000000000</Val>
+</DBL>
+<Boolean>
+<Name>Range</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Measurement Type</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+</Array>
+<Cluster>
+<Name>Corner Options (Feature Detection 1)</Name>
+<NumElts>3</NumElts>
+<EL>
+<Name>Detector type</Name>
+<Choice>Harris Corner</Choice>
+<Choice>Shi-Tomasi Corner</Choice>
+<Val>0</Val>
+</EL>
+<I32>
+<Name>Kernel size</Name>
+<Val>7</Val>
+</I32>
+<DBL>
+<Name>Min Corner Point Strength</Name>
+<Val>32.00000000000000</Val>
+</DBL>
+</Cluster>
+<U32>
+<Name>Pyramid level (Feature Detection 1)</Name>
+<Val>3</Val>
+</U32>
+<I32>
+<Name>Method </Name>
+<Val>2</Val>
+</I32>
+<U32>
+<Name>Look For</Name>
+<Val>0</Val>
+</U32>
+<I32>
+<Name>Method 2</Name>
+<Val>2</Val>
+</I32>
+<Cluster>
+<Name>ROI Descriptor (Clamp (Rake) 1)</Name>
+<NumElts>2</NumElts>
+<Array>
+<Name>Global Rectangle</Name>
+<Dimsize>4</Dimsize>
+<I32>
+<Name></Name>
+<Val>162</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>394</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>420</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1807</Val>
+</I32>
+</Array>
+<Array>
+<Name>Contours</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<EL>
+<Name>ID</Name>
+<Choice>External</Choice>
+<Choice>Internal</Choice>
+<Val>0</Val>
+</EL>
+<U32>
+<Name>Type</Name>
+<Val>12</Val>
+</U32>
+<Array>
+<Name>Coordinates</Name>
+<Dimsize>5</Dimsize>
+<I32>
+<Name></Name>
+<Val>162</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>394</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>420</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1807</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Array>
+</Cluster>
+</Array>
+</Cluster>
+</Cluster>
+</LVData>

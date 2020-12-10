@@ -1,0 +1,36 @@
+2020:06:16-19-M-30	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-32	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-35	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-39	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-46	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-48	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-02	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-03	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-03	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-03	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-03	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-22	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-26	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-39	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-40	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-41	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-42	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:16-19-M-43	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  

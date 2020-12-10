@@ -1,0 +1,27 @@
+2020:06:17-09-M-57	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-00	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-02	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-02	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-02	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-59	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-02	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-10	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-31	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-31	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-23	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-29	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-09-M-45	上料一致性检测	-1074396077	IMAQ Match Pattern 4
+  
+2020:06:17-13-M-05	字符检测	-1074396199	Invalid Coordinate System

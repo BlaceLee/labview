@@ -1,0 +1,97 @@
+#ifndef _LVForms_h
+#define _LVForms_h
+#include "LVCCG.h"
+#include "CCGDataSupport.h"
+#include "LVGlobs.h"
+
+extern TextPtr IPI_Cal_Point_TO_Line_VIName;
+extern eRunStatus IPI_Cal_Point_TO_Line_Start(subVIInstanceDataPtr viInstanceData, Boolean bShowFrontPanel, Boolean bRunToFinish, ArgList *argsIn, ArgList *argsOut, Boolean *pause);
+#define IPI_Cal_Point_TO_Line_formID 2000
+
+extern TextPtr NI_AALPro_lvlib_Unconstrained_Linear_Fit_VIName;
+extern eRunStatus NI_AALPro_lvlib_Unconstrained_Linear_Fit_Run(
+				DataType dtNI_AALPro_lvlib_Unconstrained_Linear_Fit_in_0_Y_263, PDAArrPtr  NI_AALPro_lvlib_Unconstrained_Linear_Fit_in_0_Y_263,
+				DataType dtNI_AALPro_lvlib_Unconstrained_Linear_Fit_in_1_X_E, PDAArrPtr  NI_AALPro_lvlib_Unconstrained_Linear_Fit_in_1_X_E,
+				DataType dtNI_AALPro_lvlib_Unconstrained_Linear_Fit_in_2_Weight_2A0, PDAArrPtr  NI_AALPro_lvlib_Unconstrained_Linear_Fit_in_2_Weight_2A0,
+				DataType dtNI_AALPro_lvlib_Unconstrained_Linear_Fit_in_3_tolerance_B5, float64* NI_AALPro_lvlib_Unconstrained_Linear_Fit_in_3_tolerance_B5,
+				DataType dtNI_AALPro_lvlib_Unconstrained_Linear_Fit_in_4_method_23F, uInt16  NI_AALPro_lvlib_Unconstrained_Linear_Fit_in_4_method_23F,
+				DataType dtNI_AALPro_lvlib_Unconstrained_Linear_Fit_out_0_Best_Linear_Fit_17, PDAArrPtr*  NI_AALPro_lvlib_Unconstrained_Linear_Fit_out_0_Best_Linear_Fit_17,
+				DataType dtNI_AALPro_lvlib_Unconstrained_Linear_Fit_out_1_slope_56, float64*  NI_AALPro_lvlib_Unconstrained_Linear_Fit_out_1_slope_56,
+				DataType dtNI_AALPro_lvlib_Unconstrained_Linear_Fit_out_2_intercept_4C, float64*  NI_AALPro_lvlib_Unconstrained_Linear_Fit_out_2_intercept_4C,
+				DataType dtNI_AALPro_lvlib_Unconstrained_Linear_Fit_out_3_residue_36, float64*  NI_AALPro_lvlib_Unconstrained_Linear_Fit_out_3_residue_36,
+				DataType dtNI_AALPro_lvlib_Unconstrained_Linear_Fit_out_4_error_3E, int32*  NI_AALPro_lvlib_Unconstrained_Linear_Fit_out_4_error_3E	);
+#define NI_AALPro_lvlib_Unconstrained_Linear_Fit_formID 2100
+
+extern TextPtr NI_AALPro_lvlib_Linear_Fit_VIName;
+extern eRunStatus NI_AALPro_lvlib_Linear_Fit_Run(
+				DataType dtNI_AALPro_lvlib_Linear_Fit_in_0_Y_21E, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit_in_0_Y_21E,
+				DataType dtNI_AALPro_lvlib_Linear_Fit_in_1_X_1BB, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit_in_1_X_1BB,
+				DataType dtNI_AALPro_lvlib_Linear_Fit_in_2_Weight_283, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit_in_2_Weight_283,
+				DataType dtNI_AALPro_lvlib_Linear_Fit_in_3_tolerance_44F, float64* NI_AALPro_lvlib_Linear_Fit_in_3_tolerance_44F,
+				DataType dtNI_AALPro_lvlib_Linear_Fit_in_4_method_36B, uInt16  NI_AALPro_lvlib_Linear_Fit_in_4_method_36B,
+				DataType dtNI_AALPro_lvlib_Linear_Fit_in_5_parameter_bounds_1E3, cl_E0000*  NI_AALPro_lvlib_Linear_Fit_in_5_parameter_bounds_1E3,
+				DataType dtNI_AALPro_lvlib_Linear_Fit_out_0_Best_Linear_Fit_19A, PDAArrPtr*  NI_AALPro_lvlib_Linear_Fit_out_0_Best_Linear_Fit_19A,
+				DataType dtNI_AALPro_lvlib_Linear_Fit_out_1_slope_13F, float64*  NI_AALPro_lvlib_Linear_Fit_out_1_slope_13F,
+				DataType dtNI_AALPro_lvlib_Linear_Fit_out_2_intercept_12F, float64*  NI_AALPro_lvlib_Linear_Fit_out_2_intercept_12F,
+				DataType dtNI_AALPro_lvlib_Linear_Fit_out_3_residue_D3, float64*  NI_AALPro_lvlib_Linear_Fit_out_3_residue_D3,
+				DataType dtNI_AALPro_lvlib_Linear_Fit_out_4_error_B5, int32*  NI_AALPro_lvlib_Linear_Fit_out_4_error_B5	);
+#define NI_AALPro_lvlib_Linear_Fit_formID 2200
+
+extern TextPtr NI_AALPro_lvlib_Linear_Fit__LS__VIName;
+extern eRunStatus NI_AALPro_lvlib_Linear_Fit__LS__Run(
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LS__in_0_Y_122, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit__LS__in_0_Y_122,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LS__in_1_X_E, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit__LS__in_1_X_E,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LS__in_2_Weight_15F, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit__LS__in_2_Weight_15F,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LS__out_0_Best_Linear_Fit_17, PDAArrPtr*  NI_AALPro_lvlib_Linear_Fit__LS__out_0_Best_Linear_Fit_17,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LS__out_1_slope_56, float64*  NI_AALPro_lvlib_Linear_Fit__LS__out_1_slope_56,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LS__out_2_intercept_4C, float64*  NI_AALPro_lvlib_Linear_Fit__LS__out_2_intercept_4C,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LS__out_3_residue_36, float64*  NI_AALPro_lvlib_Linear_Fit__LS__out_3_residue_36,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LS__out_4_error_3E, int32*  NI_AALPro_lvlib_Linear_Fit__LS__out_4_error_3E	);
+#define NI_AALPro_lvlib_Linear_Fit__LS__formID 2300
+
+extern TextPtr NI_AALPro_lvlib_Linear_Fit__LAR__VIName;
+extern eRunStatus NI_AALPro_lvlib_Linear_Fit__LAR__Run(
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LAR__in_0_Y_16D, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit__LAR__in_0_Y_16D,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LAR__in_1_X_E, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit__LAR__in_1_X_E,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LAR__in_2_Weight_1AA, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit__LAR__in_2_Weight_1AA,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LAR__in_3_tol_A7, float64* NI_AALPro_lvlib_Linear_Fit__LAR__in_3_tol_A7,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LAR__out_0_Best_Linear_Fit_17, PDAArrPtr*  NI_AALPro_lvlib_Linear_Fit__LAR__out_0_Best_Linear_Fit_17,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LAR__out_1_slope_56, float64*  NI_AALPro_lvlib_Linear_Fit__LAR__out_1_slope_56,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LAR__out_2_intercept_4C, float64*  NI_AALPro_lvlib_Linear_Fit__LAR__out_2_intercept_4C,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LAR__out_3_residue_36, float64*  NI_AALPro_lvlib_Linear_Fit__LAR__out_3_residue_36,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__LAR__out_4_error_3E, int32*  NI_AALPro_lvlib_Linear_Fit__LAR__out_4_error_3E	);
+#define NI_AALPro_lvlib_Linear_Fit__LAR__formID 2400
+
+extern TextPtr NI_AALPro_lvlib_Linear_Fit__Bisquare__VIName;
+extern eRunStatus NI_AALPro_lvlib_Linear_Fit__Bisquare__Run(
+				DataType dtNI_AALPro_lvlib_Linear_Fit__Bisquare__in_0_Y_170, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit__Bisquare__in_0_Y_170,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__Bisquare__in_1_X_21, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit__Bisquare__in_1_X_21,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__Bisquare__in_2_Weight_19A, PDAArrPtr  NI_AALPro_lvlib_Linear_Fit__Bisquare__in_2_Weight_19A,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__Bisquare__in_3_tol_BD, float64* NI_AALPro_lvlib_Linear_Fit__Bisquare__in_3_tol_BD,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__Bisquare__out_0_Best_Linear_Fit_1AD, PDAArrPtr*  NI_AALPro_lvlib_Linear_Fit__Bisquare__out_0_Best_Linear_Fit_1AD,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__Bisquare__out_1_slope_50, float64*  NI_AALPro_lvlib_Linear_Fit__Bisquare__out_1_slope_50,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__Bisquare__out_2_intercept_5B, float64*  NI_AALPro_lvlib_Linear_Fit__Bisquare__out_2_intercept_5B,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__Bisquare__out_3_residue_8F, float64*  NI_AALPro_lvlib_Linear_Fit__Bisquare__out_3_residue_8F,
+				DataType dtNI_AALPro_lvlib_Linear_Fit__Bisquare__out_4_error_66, int32*  NI_AALPro_lvlib_Linear_Fit__Bisquare__out_4_error_66	);
+#define NI_AALPro_lvlib_Linear_Fit__Bisquare__formID 2500
+
+extern TextPtr IMAQ_Overlay_Line_VIName;
+extern eRunStatus IMAQ_Overlay_Line_Run(
+				DataType dtIMAQ_Overlay_Line_in_0_Color_1A, uInt32  IMAQ_Overlay_Line_in_0_Color_1A,
+				DataType dtIMAQ_Overlay_Line_in_1_Group_112, VoidHand  IMAQ_Overlay_Line_in_1_Group_112,
+				DataType dtIMAQ_Overlay_Line_in_2_error_in__no_error__32, cl_00000  IMAQ_Overlay_Line_in_2_error_in__no_error__32,
+				DataType dtIMAQ_Overlay_Line_in_3_End_Point_8, cl_B0000  IMAQ_Overlay_Line_in_3_End_Point_8,
+				DataType dtIMAQ_Overlay_Line_in_4_Start_Point_20, cl_B0000  IMAQ_Overlay_Line_in_4_Start_Point_20,
+				DataType dtIMAQ_Overlay_Line_in_5_Image_65, CCGRCRefnumHandle  IMAQ_Overlay_Line_in_5_Image_65,
+				DataType dtIMAQ_Overlay_Line_out_0_error_out_48, cl_00000*  IMAQ_Overlay_Line_out_0_error_out_48,
+				DataType dtIMAQ_Overlay_Line_out_1_Image_Out_2, CCGRCRefnumHandle*  IMAQ_Overlay_Line_out_1_Image_Out_2	);
+#define IMAQ_Overlay_Line_formID 2600
+
+extern TextPtr IMAQ_Clear_Overlay_VIName;
+extern eRunStatus IMAQ_Clear_Overlay_Run(
+				DataType dtIMAQ_Clear_Overlay_in_0_Groups_B0, PDAArrPtr  IMAQ_Clear_Overlay_in_0_Groups_B0,
+				DataType dtIMAQ_Clear_Overlay_in_1_error_in__no_error__8, cl_00000  IMAQ_Clear_Overlay_in_1_error_in__no_error__8,
+				DataType dtIMAQ_Clear_Overlay_in_2_Image_1, CCGRCRefnumHandle  IMAQ_Clear_Overlay_in_2_Image_1,
+				DataType dtIMAQ_Clear_Overlay_out_0_error_out_1E, cl_00000*  IMAQ_Clear_Overlay_out_0_error_out_1E,
+				DataType dtIMAQ_Clear_Overlay_out_1_Image_Out_3B, CCGRCRefnumHandle*  IMAQ_Clear_Overlay_out_1_Image_Out_3B	);
+#define IMAQ_Clear_Overlay_formID 2700

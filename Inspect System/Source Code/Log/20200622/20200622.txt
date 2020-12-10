@@ -1,0 +1,19 @@
+2020:06:22-13-M-28	±íÃæÃ«·¢¼ì²â	-1074396080	IMAQ Inverse
+  
+2020:06:22-13-M-33	±íÃæÃ«·¢¼ì²â	-1074396120	IMAQ Inverse
+  
+2020:06:22-13-M-54	±íÃæ¿ÅÁ£Îï¼ì²â	-1074396080	IMAQ Rake
+  
+2020:06:22-13-M-23	±íÃæÃ«·¢¼ì²â	-1074396154	IMAQ Rake
+  
+2020:06:22-13-M-23	±íÃæÃ«·¢¼ì²â	-1074396154	IMAQ Rake
+  
+2020:06:22-13-M-23	±íÃæÃ«·¢¼ì²â	-1074396154	IMAQ Rake
+  
+2020:06:22-19-M-07	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:22-19-M-09	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:22-19-M-09	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:22-19-M-20	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:22-19-M-22	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:22-19-M-03	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:06:22-19-M-04	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System

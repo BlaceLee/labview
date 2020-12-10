@@ -1,0 +1,100 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0</Version>
+<Cluster>
+<Name>抓边参数</Name>
+<NumElts>3</NumElts>
+<Cluster>
+<Name>二值化参数</Name>
+<NumElts>2</NumElts>
+<SGL>
+<Name>Lower value</Name>
+<Val>104.00000</Val>
+</SGL>
+<SGL>
+<Name>Upper value</Name>
+<Val>255.00000</Val>
+</SGL>
+</Cluster>
+<Array>
+<Name>Selection Values</Name>
+<Dimsize>2</Dimsize>
+<Cluster>
+<Name>Selection Value</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Measurement Parameter</Name>
+<Val>35</Val>
+</I32>
+<DBL>
+<Name>Range Lower Value</Name>
+<Val>1949.83999999999992</Val>
+</DBL>
+<DBL>
+<Name>Range Upper Value</Name>
+<Val>6069341.00000000000000</Val>
+</DBL>
+<Boolean>
+<Name>Range</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Measurement Type</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+<Cluster>
+<Name>Selection Value</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Measurement Parameter</Name>
+<Val>36</Val>
+</I32>
+<DBL>
+<Name>Range Lower Value</Name>
+<Val>1949.83999999999992</Val>
+</DBL>
+<DBL>
+<Name>Range Upper Value</Name>
+<Val>6069341.00000000000000</Val>
+</DBL>
+<Boolean>
+<Name>Range</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Measurement Type</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+</Array>
+<Array>
+<Name>Selection Values2</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Selection Value</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Measurement Parameter</Name>
+<Val>19</Val>
+</I32>
+<DBL>
+<Name>Range Lower Value</Name>
+<Val>98.73999999999999</Val>
+</DBL>
+<DBL>
+<Name>Range Upper Value</Name>
+<Val>135.91999999999999</Val>
+</DBL>
+<Boolean>
+<Name>Range</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Measurement Type</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+</Array>
+</Cluster>
+</LVData>

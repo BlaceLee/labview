@@ -1,0 +1,96 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0.1</Version>
+<Cluster>
+<Name>CR- ³ÄË¿¼ì²âROI²ÎÊý</Name>
+<NumElts>4</NumElts>
+<Cluster>
+<Name>find straight edge Rectangle</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Left</Name>
+<Val>594</Val>
+</I32>
+<I32>
+<Name>Top</Name>
+<Val>301</Val>
+</I32>
+<I32>
+<Name>Right</Name>
+<Val>1933</Val>
+</I32>
+<I32>
+<Name>Bottom</Name>
+<Val>752</Val>
+</I32>
+<DBL>
+<Name>Rotation</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Line 1</Name>
+<NumElts>4</NumElts>
+<I32>
+<Name>Start X</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Start Y</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>End X</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>End Y</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>clamp Rectangle </Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Left</Name>
+<Val>849</Val>
+</I32>
+<I32>
+<Name>Top</Name>
+<Val>497</Val>
+</I32>
+<I32>
+<Name>Right</Name>
+<Val>1648</Val>
+</I32>
+<I32>
+<Name>Bottom</Name>
+<Val>1984</Val>
+</I32>
+<DBL>
+<Name>Rotation</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Line 2</Name>
+<NumElts>4</NumElts>
+<I32>
+<Name>Start X</Name>
+<Val>140</Val>
+</I32>
+<I32>
+<Name>Start Y</Name>
+<Val>1312</Val>
+</I32>
+<I32>
+<Name>End X</Name>
+<Val>2528</Val>
+</I32>
+<I32>
+<Name>End Y</Name>
+<Val>1312</Val>
+</I32>
+</Cluster>
+</Cluster>
+</LVData>

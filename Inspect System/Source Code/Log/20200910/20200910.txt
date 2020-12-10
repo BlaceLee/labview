@@ -1,0 +1,82 @@
+2020:09:10-18-M-25	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-15	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-18	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-09	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-12	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-47	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-49	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-14	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-16	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-40	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-43	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-17	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-19	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-44	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-49	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-53	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-09	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-41	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-18	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-30	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-33	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-37	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-51	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-03	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-41	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-45	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-47	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-33	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-48	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-44	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-01	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-12	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-23	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-01	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-12	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-52	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-33	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-18	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-52	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-11	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-14	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-17	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-41	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-37	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-05	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-16	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-14	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-20-M-54	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-21-M-26	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-21-M-14	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-21-M-13	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-21-M-57	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-21-M-38	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-21-M-49	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-21-M-51	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-22-M-05	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-22-M-25	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-22-M-14	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-22-M-16	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-22-M-15	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-22-M-57	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-22-M-14	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-22-M-30	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-22-M-48	×Ö·û¼ì²â	-1074395628	IMAQ Match Geometric Pattern 2
+  
+2020:09:10-22-M-59	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System
+2020:09:10-22-M-18	×Ö·û¼ì²â	-1074396199	Invalid Coordinate System

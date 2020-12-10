@@ -1,0 +1,10 @@
+F:\AndafaProject\微创\源码\RobotTest\Andafa.IO.Helper.Demo\bin\Debug\Andafa.IO.Helper.Demo.exe
+F:\AndafaProject\微创\源码\RobotTest\Andafa.IO.Helper.Demo\bin\Debug\Andafa.IO.Helper.Demo.pdb
+F:\AndafaProject\微创\源码\RobotTest\Andafa.IO.Helper.Demo\bin\Debug\Andafa.IO.Helper.dll
+F:\AndafaProject\微创\源码\RobotTest\Andafa.IO.Helper.Demo\bin\Debug\Andafa.IO.Helper.pdb
+F:\AndafaProject\微创\源码\RobotTest\Andafa.IO.Helper.Demo\obj\Debug\Andafa.IO.Helper.Demo.csprojResolveAssemblyReference.cache
+F:\AndafaProject\微创\源码\RobotTest\Andafa.IO.Helper.Demo\obj\Debug\Andafa.IO.Helper.Demo.Form1.resources
+F:\AndafaProject\微创\源码\RobotTest\Andafa.IO.Helper.Demo\obj\Debug\Andafa.IO.Helper.Demo.Properties.Resources.resources
+F:\AndafaProject\微创\源码\RobotTest\Andafa.IO.Helper.Demo\obj\Debug\Andafa.IO.Helper.Demo.csproj.GenerateResource.Cache
+F:\AndafaProject\微创\源码\RobotTest\Andafa.IO.Helper.Demo\obj\Debug\Andafa.IO.Helper.Demo.exe
+F:\AndafaProject\微创\源码\RobotTest\Andafa.IO.Helper.Demo\obj\Debug\Andafa.IO.Helper.Demo.pdb

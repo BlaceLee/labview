@@ -1,0 +1,20 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0.1</Version>
+<Cluster>
+<Name>Value</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>地址</Name>
+<Val>192.168.3.100</Val>
+</String>
+<U16>
+<Name>远程端口或服务名称</Name>
+<Val>51236</Val>
+</U16>
+<DBL>
+<Name>超时秒数</Name>
+<Val>25.00000000000000</Val>
+</DBL>
+</Cluster>
+</LVData>

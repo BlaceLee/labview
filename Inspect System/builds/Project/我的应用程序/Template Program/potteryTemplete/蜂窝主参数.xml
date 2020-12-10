@@ -1,0 +1,20 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0</Version>
+<Cluster>
+<Name>ParamsUI</Name>
+<NumElts>3</NumElts>
+<Boolean>
+<Name>IsNorImage</Name>
+<Val>1</Val>
+</Boolean>
+<U32>
+<Name>Exposure Values</Name>
+<Val>0</Val>
+</U32>
+<Path>
+<Name>ImagePath</Name>
+<Val>C:\Users\Administrator\Desktop\ µ—ÈÕº∆¨\Ã’¥…∑‰Œ—\1.bmp</Val>
+</Path>
+</Cluster>
+</LVData>
